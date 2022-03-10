@@ -1,3 +1,5 @@
+# 🛑 ARCHIVED 🛑
+
 # ember-data-shim-typings
 
 Typings for [ember-data shims](https://www.emberjs.com/blog/2016/01/12/ember-data-2-3-released.html#toc_importing-modules):
